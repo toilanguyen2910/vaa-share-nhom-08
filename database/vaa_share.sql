@@ -135,9 +135,9 @@ CREATE TABLE `bao_cao_vi_pham` (
 -- 1. NẠP TÀI KHOẢN MẪU
 INSERT INTO `nguoi_dung` (`id`, `mssv`, `ho_ten`, `email`, `mat_khau`, `so_dien_thoai`, `zalo`, `khoa_lop`, `vai_tro`, `trang_thai`) VALUES
 (1, 'VAA-ADM01', 'Ban Quản trị VAA Share', 'admin@vaa.edu.vn', '$2y$10$L3PCEsL218decUkBOuZX7uZF8UtCGMzX4fNtbpjIfSaBlg5OOb2Ea', '0901234567', '0901234567', 'Phòng Công tác Sinh viên', 'Admin', 'Hoat dong'),
-(2, '2531540127', 'Vũ Hoàng Khôi Nguyên', '2531540127@vaa.edu.vn', '$2y$10$L3PCEsL218decUkBOuZX7uZF8UtCGMzX4fNtbpjIfSaBlg5OOb2Ea', '0912345678', '0912345678', '25ĐHSA06 - Khoa CNTT', 'Sinh vien', 'Hoat dong'),
-(3, '2531540131', 'Vũ Nguyễn Đức Tính', '2531540131@vaa.edu.vn', '$2y$10$L3PCEsL218decUkBOuZX7uZF8UtCGMzX4fNtbpjIfSaBlg5OOb2Ea', '0923456789', '0923456789', '25ĐHSA06 - Khoa CNTT', 'Sinh vien', 'Hoat dong'),
-(4, '2531540054', 'Diệp Vĩnh Long', '2531540054@vaa.edu.vn', '$2y$10$L3PCEsL218decUkBOuZX7uZF8UtCGMzX4fNtbpjIfSaBlg5OOb2Ea', '0934567890', '0934567890', '25ĐHSA06 - Khoa CNTT', 'Sinh vien', 'Hoat dong'),
+(2, '2531540127', 'Vũ Hoàng Khôi Nguyên', '2531540127@vaa.edu.vn', '$2y$10$L3PCEsL218decUkBOuZX7uZF8UtCGMzX4fNtbpjIfSaBlg5OOb2Ea', '0912345678', '0912345678', '25ĐHSA02 - Khoa CNTT', 'Sinh vien', 'Hoat dong'),
+(3, '2531540131', 'Vũ Nguyễn Đức Tính', '2531540131@vaa.edu.vn', '$2y$10$L3PCEsL218decUkBOuZX7uZF8UtCGMzX4fNtbpjIfSaBlg5OOb2Ea', '0923456789', '0923456789', '25ĐHSA02 - Khoa CNTT', 'Sinh vien', 'Hoat dong'),
+(4, '2531540054', 'Diệp Vĩnh Long', '2531540054@vaa.edu.vn', '$2y$10$L3PCEsL218decUkBOuZX7uZF8UtCGMzX4fNtbpjIfSaBlg5OOb2Ea', '0934567890', '0934567890', '25ĐHSA03 - Khoa CNTT', 'Sinh vien', 'Hoat dong'),
 (5, 'GV-SONHT', 'ThS. Huỳnh Thanh Sơn', 'sonht@vaa.edu.vn', '$2y$10$L3PCEsL218decUkBOuZX7uZF8UtCGMzX4fNtbpjIfSaBlg5OOb2Ea', '0987654321', '0987654321', 'Khoa Công nghệ thông tin', 'Giang vien', 'Hoat dong'),
 (6, '2254050012', 'Nguyễn Thị Mai Phương', '2254050012@vaa.edu.vn', '$2y$10$L3PCEsL218decUkBOuZX7uZF8UtCGMzX4fNtbpjIfSaBlg5OOb2Ea', '0945678901', '0945678901', '22ĐHQH01 - Quản lý Hoạt động bay', 'Sinh vien', 'Hoat dong');
 

@@ -1,6 +1,6 @@
 # ✈️ VAA SHARE — NỀN TẢNG TRAO ĐỔI VÀ BÁN LẠI ĐỒ DÙNG NỘI BỘ SINH VIÊN VAA
 
-> **HỌC PHẦN:** LẬP TRÌNH WEB (MÃ HP: 010151101410 — LỚP: 25ĐHSA06)  
+> **HỌC PHẦN:** LẬP TRÌNH WEB (MÃ HP: 010151101410 — LỚP: 25ĐHSA02 & 25ĐHSA03)  
 > **ĐƠN VỊ:** KHOA CÔNG NGHỆ THÔNG TIN — HỌC VIỆN HÀNG KHÔNG VIỆT NAM (VAA)  
 > **GIẢNG VIÊN HƯỚNG DẪN:** ThS. Huỳnh Thanh Sơn  
 > **NHÓM THỰC HIỆN:** NHÓM 08  
@@ -9,11 +9,11 @@
 
 ## 👥 THÀNH VIÊN NHÓM 08
 
-| STT | Họ và tên | MSSV | Lớp | Vai trò | Phụ trách chính |
+| STT | Họ và tên | MSSV | Lớp sinh hoạt | Vai trò | Phụ trách chính |
 | :---: | :--- | :---: | :---: | :---: | :--- |
-| **1** | **Vũ Hoàng Khôi Nguyên** | **2531540127** | 25ĐHSA06 | **Nhóm trưởng** | Thiết kế CSDL, Auth BCRYPT/Session, Phân hệ Admin, Tổng hợp Báo cáo & Slide |
-| **2** | **Vũ Nguyễn Đức Tính** | **2531540131** | 25ĐHSA06 | Thành viên | Trang chủ, Trang danh mục & Bộ lọc đa chiều, Các hàm truy vấn `functions.php` |
-| **3** | **Diệp Vĩnh Long** | **2531540054** | 25ĐHSA06 | Thành viên | Trang chi tiết món đồ, Đăng tin upload ảnh, Quản lý Đồ của tôi & Duyệt yêu cầu P2P |
+| **1** | **Vũ Hoàng Khôi Nguyên** | **2531540127** | 25ĐHSA02 | **Nhóm trưởng** | Thiết kế CSDL, Auth BCRYPT/Session, Phân hệ Admin, Tổng hợp Báo cáo & Slide |
+| **2** | **Vũ Nguyễn Đức Tính** | **2531540131** | 25ĐHSA02 | Thành viên | Trang chủ, Trang danh mục & Bộ lọc đa chiều, Các hàm truy vấn `functions.php` |
+| **3** | **Diệp Vĩnh Long** | **2531540054** | 25ĐHSA03 | Thành viên | Trang chi tiết món đồ, Đăng tin upload ảnh, Quản lý Đồ của tôi & Duyệt yêu cầu P2P |
 
 ---
 
@@ -114,4 +114,4 @@ vaa_share/
 
 ## 📜 BẢN QUYỀN VÀ LƯU Ý
 - Dự án được thực hiện phục vụ đánh giá cuối kỳ Học phần Lập trình Web — Học viện Hàng không Việt Nam.
-- Toàn bộ nội dung và mã nguồn thuộc quyền sở hữu của Nhóm 08 (Lớp 25ĐHSA06).
+- Toàn bộ nội dung và mã nguồn thuộc quyền sở hữu của Nhóm 08 (Lớp 25ĐHSA02 & 25ĐHSA03).

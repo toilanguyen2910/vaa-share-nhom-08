@@ -15,7 +15,7 @@
           Nền tảng nội bộ kết nối sinh viên VAA trao tặng giáo trình (0đ), thanh lý đồ dùng học tập, đồng phục và đồ phòng trọ phi thương mại tại hai cơ sở trường.
         </p>
         <p style="font-size:0.85rem; margin-top:10px; color:#64748b;">
-          Đề tài môn học Lập trình Web — Lớp 25ĐHSA06 (HK1 2026–2027)<br>
+          Đề tài môn học Lập trình Web — Lớp 25ĐHSA02 & 25ĐHSA03 (HK1 2026–2027)<br>
           Giảng viên hướng dẫn: ThS. Huỳnh Thanh Sơn
         </p>
       </div>

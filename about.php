@@ -68,13 +68,13 @@ require_once __DIR__ . '/includes/header.php';
   <div style="background:#f8fafc; border:1px solid var(--vaa-border); border-radius:var(--vaa-radius); padding:24px; text-align:center;">
     <h3 style="margin-bottom:8px;">Nhóm thực hiện đề tài (Nhóm 8)</h3>
     <p style="color:var(--vaa-muted); font-size:0.9rem; margin-bottom:16px;">
-      Môn học: Lập trình Web — Lớp 25ĐHSA06 — Học viện Hàng không Việt Nam<br>
+      Môn học: Lập trình Web — Lớp 25ĐHSA02 & 25ĐHSA03 — Học viện Hàng không Việt Nam<br>
       Giảng viên hướng dẫn: <strong>ThS. Huỳnh Thanh Sơn</strong>
     </p>
     <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-      <span class="badge" style="background:#fff; border:1px solid #cbd5e1; padding:8px 14px;">👑 <strong>Vũ Hoàng Khôi Nguyên</strong> (2531540127)</span>
-      <span class="badge" style="background:#fff; border:1px solid #cbd5e1; padding:8px 14px;">⚙️ <strong>Vũ Nguyễn Đức Tính</strong> (2531540131)</span>
-      <span class="badge" style="background:#fff; border:1px solid #cbd5e1; padding:8px 14px;">✨ <strong>Diệp Vĩnh Long</strong> (2531540054)</span>
+      <span class="badge" style="background:#fff; border:1px solid #cbd5e1; padding:8px 14px;">👑 <strong>Vũ Hoàng Khôi Nguyên</strong> (2531540127 - 25ĐHSA02)</span>
+      <span class="badge" style="background:#fff; border:1px solid #cbd5e1; padding:8px 14px;">⚙️ <strong>Vũ Nguyễn Đức Tính</strong> (2531540131 - 25ĐHSA02)</span>
+      <span class="badge" style="background:#fff; border:1px solid #cbd5e1; padding:8px 14px;">✨ <strong>Diệp Vĩnh Long</strong> (2531540054 - 25ĐHSA03)</span>
     </div>
   </div>
 

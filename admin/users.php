@@ -36,7 +36,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mssv     = trim($_POST['mssv'] ?? '');
         $ho_ten   = trim($_POST['ho_ten'] ?? '');
         $sdt      = trim($_POST['so_dien_thoai'] ?? '');
-        $khoa_lop = trim($_POST['khoa_lop'] ?? '25ĐHSA06');
+        $khoa_lop = trim($_POST['khoa_lop'] ?? '25ĐHSA02');
         $pass     = trim($_POST['mat_khau'] ?? '123456');
 
         if (!empty($mssv) && !empty($ho_ten)) {
@@ -150,7 +150,7 @@ $users = $db->query("SELECT * FROM nguoi_dung WHERE vai_tro = 'Sinh vien' ORDER 
 
       <div class="form-group">
         <label>Khoa / Lớp:</label>
-        <input type="text" name="khoa_lop" class="form-control" value="25ĐHSA06 - Khoa CNTT">
+        <input type="text" name="khoa_lop" class="form-control" value="25ĐHSA02 - Khoa CNTT">
       </div>
 
       <div class="form-group">
