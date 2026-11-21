@@ -1,6 +1,6 @@
 # ✈️ VAA SHARE — NỀN TẢNG TRAO ĐỔI VÀ BÁN LẠI ĐỒ DÙNG NỘI BỘ SINH VIÊN VAA
 
-> **HỌC PHẦN:** LẬP TRÌNH WEB (MÃ HP: 010151101410 — LỚP: 25ĐHSA02 & 25ĐHSA03)  
+> **HỌC PHẦN:** LẬP TRÌNH WEB (MÃ HP: 010151101410 — LỚP: 25ĐHSA06)  
 > **ĐƠN VỊ:** KHOA CÔNG NGHỆ THÔNG TIN — HỌC VIỆN HÀNG KHÔNG VIỆT NAM (VAA)  
 > **GIẢNG VIÊN HƯỚNG DẪN:** ThS. Huỳnh Thanh Sơn  
 > **NHÓM THỰC HIỆN:** NHÓM 08  
