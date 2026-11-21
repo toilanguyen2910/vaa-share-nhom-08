@@ -1,0 +1,15 @@
+# Hệ điều hành & Thư mục tạm
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+~$*
+
+# Hồ sơ nộp LMS & Tài liệu nội bộ nhóm (Không đẩy lên GitHub)
+*.docx
+*.pptx
+HUONG_DAN_VAN_DAP_PHONG_G201.md
+doc_screenshots/
+
+# XAMPP / Apache cache
+.htaccess.backup
