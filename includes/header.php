@@ -8,6 +8,14 @@
 require_once __DIR__ . '/auth.php';
 require_once __DIR__ . '/functions.php';
 
+// CỔNG XÁC THỰC NỘI BỘ VAA:
+// Hệ thống là mạng nội bộ khép kín (Intranet Portal) nhằm bảo vệ thông tin cá nhân sinh viên.
+// Khách chưa đăng nhập bắt buộc phải qua cổng login.php (ngoại trừ trang giới thiệu about.php).
+if (!is_logged_in() && !in_array($activePage ?? '', ['login', 'about'])) {
+    header('Location: ' . BASE_URL . '/login.php');
+    exit;
+}
+
 $currentUser = current_user();
 ?>
 <!DOCTYPE html>

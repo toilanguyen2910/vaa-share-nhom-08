@@ -46,6 +46,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 
 $pageTitle = 'Đăng nhập nội bộ VAA';
+$activePage = 'login';
 require_once __DIR__ . '/includes/header.php';
 ?>
 
